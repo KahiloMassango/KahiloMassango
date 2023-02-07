@@ -7,17 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/anonangola" target="blank"><img src="https://img.shields.io/twitter/follow/anonangola?logo=twitter&style=for-the-badge" alt="anonangola" /></a> </p>
 
-- 🔭 I’m currently working on **To Do APP (CFB)**
+- 🔭 I’m currently a **Student**
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **AnonAngola**
+- 👨‍💻 All of my projects are available at **This repository**
 
-- 🤝 I’m looking for help with **Open Source Django**
-
-- 👨‍💻 All of my projects are available at [AnonAngola.com](AnonAngola.com)
-
-- 📫 How to reach me **AnonAngola@Angola.com**
+- 📫 How to reach me **kahilo42@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
