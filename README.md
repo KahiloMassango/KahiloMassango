@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm Kahilo Massango</h1>
-<h3 align="center">A passionate backend developer from Angola</h3>
+<h3 align="center">Junior Sofware Enginner (Android)</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonangola&label=Profile%20views&color=0e75b6&style=flat" alt="anonangola" /> </p>
 
@@ -11,4 +12,4 @@
 
 - 📫 How to reach me **kahilo42@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡One fact:  **I solve rubik cube  below 15s**
